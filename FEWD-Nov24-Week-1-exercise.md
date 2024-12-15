@@ -9,8 +9,6 @@ Aisling Kelly unit 1 exercise
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Enter a title, displayed at the top of the window.</title>
-
 </head>
 
 <body>
