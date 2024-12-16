@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+   <html lang="en">
+   <head>
+     <title>Predict the Result</title>
+     <meta charset="utf-8">
+   </head>
+   <body>
+     <header><h1><i>Favorite Sites</i></h1></header>
+     <main>
+       <ol>
+         <li><a href="http://facebook.com">Facebook</a></li>
+         <li><a href="http://google.com">Google</a></li>
+       </ol>
+      </main>
+      <footer>
+        <small>Copyright &copy; 2016 Aisling Kelly</small>
+      </footer>
+   </body>
+   </html>
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+     <title>Door County Wildflowers</title>
+     <meta charset="utf-8">
+   </head>
+<body>
+<header><h1>Door County Wild Flowers</h1>h1></header> <main>
+<dl> 
+<dt>Trillium</dt>
+<p>This white flower blooms from April through June in wooded areas.</p> 
+<em>Lady Slipper</em>
+<dd>This yellow orchid blooms in June in wooded areas.</dd> 
+</_>dl> 
+      </main>
+   </body>
+</html> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Find the Error</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1>My Web Page</body>h1>
+  <p>The text is displaying in large and bold font as the Heading 1 for the title "My Web Page" was not closed off, this meant that it continued down the document. This has now been closed down by me.    All the text on the web page defined by the given code displays in large 
+    and bold font typeface. Explain why this is happening.</p>
+</body>
+</html>
+
+   
+   
