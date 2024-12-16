@@ -38,5 +38,79 @@
             </ol>
         </body>
     </html>
+<html lang="en">
+    <body>
+        <h1>John Lennon</h1>
+            <blockquote cite="http://www.w3.org/WAI/ ">Life is what happens when you're busy making other plans</blockquote>
+    </body>
+</html>
+<html lang="en">
+    <body>
+    <p>A diagram of the organization of a website is called a <b.>site map</b.>.
+        A site map represents the structure, or organization, of pages in
+        a website in a visual manner. Creating the site map is one of the
+        initial steps in developing a website</p>
+        </body>
+ </html>
+ <html lang="en">
+    <body>
+        <h2>Three Network Protocols</h2>
+        <dl>
+            <dt>Communication Protocols</dt>
+            <dd> - These include Address Resolution Protocol (ARP), Hypertext Transfer Protocol (HTTP), Internet Protocol (IP)</dd>
+            <dt>Routing Protocols</dt>
+            <dd> - These include Border Gateway Protocol (BGP) and Open Shirtest Path First (OSPF)</dd>
+            <dt>Network management protocols</dt>
+            <dd> - These include Domain Name System (DNS), Dynamics Host Configuration Protocol (DHCP). File Tranfer Protocol (FTP)</dd> 
+        </dl>
+        <a href="https://www.techtarget.com/network/".link text</a>
+
+        
+    </body>
+ </html>
+<html lang="en">
+<body>
+    <H1>Oasis</H1>
+    <h4>Original Band members</h4>
+    <ul>
+        <li>Noel Gallagher</li>
+        <li>Paul "Bonehead" Arthurs</li>
+        <li>Paul "Guigsy" McGuigan</li>
+        <li>Liam Gallagher</li>
+        <li>Tony McCarrol</li>
+    </ul>
+    <h4>Albums</h4>
+    <dl>
+        <dt>Definitely Maybe</dt>
+        <dd>Oasis released their debut album in 1994 whch quickly became the fastest selling debut album in British history at the time</dd>
+        <dt>(Whats the story moring glory</dt>
+        <dd>They released their follow up album in 1995 which was also an international success</dd>
+        <dt>Be Here Now</dt>
+        <dd>In 1997 they released their highly anticipated third album, which became the fastest selling album ibn UK chart history.</dd>
+    </dl>
+</body>
+</html>
+<html lang="en">
+    <body>
+        <h4>Scrambled eggs</h4>
+        <ul>
+            <li>2 eggs</li>
+            <li>salt</li>
+            <li>pepper</li>
+            <li>butter</li>
+            <li>milk</li>
+        </ul>
+        <ol>
+            <li>crack the 2 eggs into a bowl</li>
+            <li>beat the eggs and add in salt and pepper to your taste</li>
+            <li>add in a small amount of milk, and beat with the eggs</li>
+            <li>finally add in a knob of butter</li>
+            <li>heat the pot, then pour the mixture into the pot</li>
+            <li>keep stirring until fully cooked</li>
+            <li>serve on fresh toast</li>
+        </ol>
+        <p>you can find further recipes on this website <a href="https://www.nevenmaguire.com/recipes/"</a></p>
+    </body>
+</html>
 
 
