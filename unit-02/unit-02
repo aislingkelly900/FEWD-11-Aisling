@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <body>
+<h1>Aisling Kelly</h1>
+    </body>
+    </html>
+    <html>
+        <body>
+            <h2>Absoulute URLs<.h2>
+<p><a href="https://www.ucd.ie/professionalacademy/"</a></p>
+    <h2> An unordered list</h2>
+</body>
+    </html>
+    <html>
+        <body>
+    <ul>
+        <li>Friday</li>
+        <li>Monday</li>
+        <li>Sunday</li>
+        <li>Tuesday</li>
+        <li>Wednesday</li>
+        <li>Saturday</li>
+        <li>Thursday</li>
+            </ul>
+        </body>
+        </html>
+        <html>
+            <body>
+                </html>
+                <html>
+                    <body>
+            <h2> Ordered list that uses uppercase letters to order the items</h2>
+            <ol type="A">
+                <li>Bacon</li>
+                <li>Zebra</li>
+                <li>Hippo</li>
+                <li>Snapchat</li>
+            </ol>
+        </body>
+    </html>
+
+
