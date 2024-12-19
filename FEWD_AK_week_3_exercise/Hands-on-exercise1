@@ -1,0 +1,28 @@
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+   <title>Aisling Kelly Design</title>
+   <meta charset="utf-8">
+<style>
+    body { background-color: hsl(151, 78%, 23%);
+           color:antiquewhite;
+           font-family: Arial,sans-serif; }
+    header { background-color: #FFFFFF;
+             color: hsl(167, 68%, 41%); }
+    footer { font-size: 80%;
+             font-style: italic; }
+  </style>
+  </head>
+  <body>
+  <header><h1>Aisling Kelly Design</h1></header>
+  <nav>Home <a href="about.html">About</a> <a href="services.html">
+  Services</a>
+  </nav>
+  <p>This is me writing a HTML for a paragraph that uses inline styles to configure the background colour of green
+     and the text colour of white.</p>
+  <br><br>
+  <footer>
+  Copyright &copy; 2024 Aisling Kelly
+  </footer>
+  </body>
+  </html>
