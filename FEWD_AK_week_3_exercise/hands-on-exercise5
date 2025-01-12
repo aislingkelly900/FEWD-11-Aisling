@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded CSS Example</title>
+    <style>
+        /* Embedded CSS */
+        /* Style for links */
+        a {
+            text-decoration: none;         /* Removes underline */
+            background-color: white;       /* Sets background color to white */
+            color: black;                  /* Sets text color to black */
+            font-family: Arial, Helvetica, sans-serif; /* Sets font to Arial, Helvetica, or sans-serif */
+        }
+
+        /* Class 'new' to make text bold and italic */
+        .new {
+            font-weight: bold;  /* Makes text bold */
+            font-style: italic; /* Makes text italic */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to Aisling's embedded style Webpage</h1>
+    <p>Here is a <a href="#" class="new">link</a> with the "new" class applied (bold and italic).</p>
+    <p>Here is another <a href="#">link</a> without the "new" class (normal style).</p>
+
+</body>
+</html>

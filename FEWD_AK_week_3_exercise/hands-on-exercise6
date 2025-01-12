@@ -1,0 +1,18 @@
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+  <body>
+  <header><h1>Aisling Kelly Design</h1></header>
+  <nav>Home <a href="about.html">About</a> <a href="services.html">
+  Services</a>
+  </nav>
+  <p>Hands on exercise 6 with an external style sheet. </p>
+  <br><br>
+  <footer>
+  Copyright &copy; 2024 Aisling Kelly
+  </footer>
+  </body>
+  </html>

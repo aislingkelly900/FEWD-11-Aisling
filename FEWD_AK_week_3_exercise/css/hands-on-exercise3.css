@@ -1,0 +1,8 @@
+/* External stylesheet for text styling */
+
+body {
+    color: brown;          /* Sets text color to brown */
+    font-size: 1.2em;      /* Sets font size to 1.2em */
+    font-family: Arial, Verdana, sans-serif; /* Sets font family to Arial or Verdana */
+  }
+  

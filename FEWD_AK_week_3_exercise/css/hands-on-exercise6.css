@@ -1,0 +1,13 @@
+/* External CSS for Page Styling */
+body {
+    background-color: #FFF8DC;        /* Sets the background color of the page */
+    color: #000099;                   /* Sets the text color to #000099 */
+    font-family: Arial, Helvetica, sans-serif;  /* Sets font to Arial, Helvetica, or any sans-serif font */
+}
+
+/* ID selector for 'new' */
+#new {
+    font-weight: bold;   /* Makes text bold */
+    font-style: italic;  /* Makes text italic */
+}
+

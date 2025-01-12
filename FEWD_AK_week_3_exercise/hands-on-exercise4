@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embedded CSS Example</title>
+    <style>
+        /* Embedded CSS */
+        .new {
+            font-weight: bold;  /* Makes text bold */
+            font-style: italic; /* Makes text italic */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to the Webpage</h1>
+    <p>This is a paragraph with normal text.</p>
+    <p class="new">This is a paragraph with text that is bold and italic because of the 'new' class.</p>
+
+</body>
+</html>
+
+

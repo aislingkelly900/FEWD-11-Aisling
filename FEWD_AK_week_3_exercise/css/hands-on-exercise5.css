@@ -1,0 +1,17 @@
+/* Style for links */
+a {
+    text-decoration: none;           /* Removes underline from links */
+    background-color: white;         /* Sets the background color of the link to white */
+    color: black;                    /* Sets the text color of the link to black */
+    font-family: Arial, Helvetica, sans-serif; /* Sets the font to Arial, Helvetica, or any sans-serif font */
+}
+
+/* Class 'new' to make text bold and italic */
+.new {
+    font-weight: bold;   /* Makes text bold */
+    font-style: italic;  /* Makes text italic */
+}
+
+
+
+

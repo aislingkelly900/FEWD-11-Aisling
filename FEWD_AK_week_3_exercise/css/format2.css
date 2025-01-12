@@ -1,0 +1,19 @@
+/* External CSS for Page Styling */
+
+/* Body styling */
+body {
+    background-color: yellow;         /* Sets the background color of the document to yellow */
+    color: green;                      /* Sets the text color of the document to green */
+}
+
+/* Hyperlink styling */
+a {
+    background-color: white;          /* Sets the background color of hyperlinks to white */
+}
+
+/* Heading 1 styling */
+h1 {
+    font-family: "Times New Roman", Times, serif;  /* Sets the font of h1 to Times New Roman */
+    background-color: white;          /* Sets the background color of h1 to white */
+    color: green;                      /* Sets the text color of h1 to green */
+}

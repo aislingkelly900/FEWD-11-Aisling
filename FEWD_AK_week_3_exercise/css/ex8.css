@@ -1,0 +1,24 @@
+/* External CSS for Page Styling */
+
+/* Body styling */
+body {
+    background-color: black;          /* Sets the background color of the document to light cream */
+    color: white;                     /* Sets the text color of the document to a shade of blue */
+    font-family: Arial, Helvetica, sans-serif; /* Sets font family to Arial, Helvetica, or any sans-serif font */
+}
+
+/* Styling for the 'news' class */
+.news {
+    font-weight: bold;                  /* Makes the text bold */
+    font-style: italic;                 /* Makes the text italic */
+}
+
+/* Styling for hyperlinks */
+a {
+    color: #0000FF;                     /* Sets the color of the link to blue */
+    text-decoration: none;              /* Removes the underline from the links */
+}
+
+a:hover {
+    text-decoration: underline;         /* Underline the link when hovered */
+}
