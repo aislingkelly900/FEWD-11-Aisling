@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Stars</title>
+    </head>
+    <body>
+        <script>
+            // Prompt user for input
+            let input = prompt("Enter a number");
+
+            //check if the input is a valid non-negative number
+            let number = parseInt (input);
+
+            if(isNaN (number)|| number < 0) {
+                alert("Please enter a valid non-negative number.");
+            }else{
+                \\ create a string of stars
+                let stars = "*".repeat(number);
+
+                \\ output stars to console
+                console.log(stars);
+
+                \\output stars to the HTML document
+                document.body.innerHTML = stars;
+            }
+            PRETTY
+            </script>
+    </body>
