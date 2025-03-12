@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset=UTF-8>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Sum and Average Calculator</title>
+    </head>
+    <body>
+        <script>
+            // Initialise an array to hold the numbers
+            let numbers = [];
+
+            // loop to promt the user for 5 numbers
+            for (let i = 1; i <=5; i++) {
+                let input = prompt(`Enter number ${i}:`)
+            
+                // Convert input to a number and push to the numbers array 
+                let num = parseFloat(input);
+
+                // Check if the inpout is a valid number
+                if (isNaN(num)) {
+                    alerts("Invalid input.Please enter a valid number.");
+                    i--;
+                }}
+        </script>
+    </body>
+</html>
